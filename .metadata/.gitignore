@@ -1,0 +1,4 @@
+# track only org.eclipse.core.runtime
+*
+!.gitignore
+!.plugins/org.eclipse.core.runtime
