@@ -1,0 +1,4 @@
+KEY_CONFIGURATION_ID=org.eclipse.cdt.ui.visualstudio
+SHOW_TEXT_ON_PERSPECTIVE_BAR=false
+eclipse.preferences.version=1
+showIntro=false

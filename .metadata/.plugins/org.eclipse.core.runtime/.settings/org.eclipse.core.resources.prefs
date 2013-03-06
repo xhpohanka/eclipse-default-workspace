@@ -1,0 +1,4 @@
+description.autobuilding=false
+eclipse.preferences.version=1
+pathvariable.STD_PERIPH_LIB_350=/home/honza/_dev/stm32/STM32F10x_StdPeriph_Lib_V3.5.0
+version=1
